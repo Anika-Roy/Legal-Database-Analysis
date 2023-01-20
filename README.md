@@ -3,7 +3,7 @@
 
 This repository is an exploration of a legal database from [Development Data Lab](https://www.devdatalab.org/) whose csvs can be downloaded [here](https://www.dropbox.com/sh/hkcde3z2l1h9mq1/AAB2U1dYf6pR7qij1tQ5y11Fa/csv?dl=0&subfolder_nav_tracking=1). This is a database of ~80 million Indian district court data across states and my objective was to extract meaningful data and insights from it and to train models that could be used to predict something useful.
 
-# Directory Structure
+## Directory Structure
  The task had 2 broad subproblems- Analysis and Classification. 3 insights required for analysis are in the analysis folder named insight_x.ipynb. Classification using ML models has been split into 2 notebooks-- traditional ML models and Neural Networks. Insights for classification problems are in the jupyter notebooks themselves. Every subfolder in plots contains images of all the plots in the notebook. The directory structure is:
 ```
 .
@@ -40,6 +40,16 @@ All code was written on kaggle, so running files is just running a jupyter noteb
 ## Link to the repository
 
 The respository link is [here](https://github.com/Anika-Roy/PreCog--Legal-Database). Hope you like it!
+
+## Bibliography
+1. https://medium.com/analytics-vidhya/machine-learning-classification-algorithms-with-codes-5a8af4491fcb
+2. https://www.analyticsvidhya.com/blog/2021/10/implementing-artificial-neural-networkclassification-in-python-from-scratch/
+3. https://www.kaggle.com/code/durgancegaur/a-guide-to-any-classification-problem
+4. https://towardsdatascience.com/my-ml-model-fails-why-is-it-the-data-d8fbfc50c254
+5. https://www.analyticsvidhya.com/blog/2021/10/implementing-artificial-neural-networkclassification-in-python-from-scratch/
+6. https://www.mltut.com/implementation-of-artificial-neural-network-in-python/
+7. https://towardsdatascience.com/using-the-right-dimensions-for-your-neural-network-2d864824d0df
+8. https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
 
 > PS: I will be making the repository public after the deadline
 
