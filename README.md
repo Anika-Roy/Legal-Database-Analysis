@@ -1,10 +1,10 @@
-# PreCog Programming Task!
+# #PreCog Programming Task
 ## Anika Roy- UG2 CND -2021113008
 
- If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar. This repository is an exploration of a legal database from [Development Data Lab](https://www.devdatalab.org/) whose csvs can be downloaded [here](https://www.dropbox.com/sh/hkcde3z2l1h9mq1/AAB2U1dYf6pR7qij1tQ5y11Fa/csv?dl=0&subfolder_nav_tracking=1). 
+This repository is an exploration of a legal database from [Development Data Lab](https://www.devdatalab.org/) whose csvs can be downloaded [here](https://www.dropbox.com/sh/hkcde3z2l1h9mq1/AAB2U1dYf6pR7qij1tQ5y11Fa/csv?dl=0&subfolder_nav_tracking=1). This is a database of ~80 million Indian district court data across states and my objective was to extract meaningful data and insights from it and to train models that could be used to predict something useful.
 
 # Directory Structure
- The task had 2 broad subproblems- Analysis and Classification. 3 insights required for analysis are in the analysis folder named insight_x.ipynb. Classification using ML models has been split into 2 notebooks-- traditional ML models and Neural Networks. Insights for classification problems are in the jupyter notebooks themselves.  The directory structure is:
+ The task had 2 broad subproblems- Analysis and Classification. 3 insights required for analysis are in the analysis folder named insight_x.ipynb. Classification using ML models has been split into 2 notebooks-- traditional ML models and Neural Networks. Insights for classification problems are in the jupyter notebooks themselves. Every subfolder in plots contains images of all the plots in the notebook. The directory structure is:
 ```
 .
 +-- README.md
@@ -40,6 +40,8 @@ All code was written on kaggle, so running files is just running a jupyter noteb
 ## Link to the repository
 
 The respository link is [here](https://github.com/Anika-Roy/PreCog--Legal-Database). Hope you like it!
+
+> PS: I will be making the repository public after the deadline
 
 
 
