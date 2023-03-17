@@ -39,7 +39,7 @@ All code was written on kaggle, so running files is just running a jupyter noteb
 
 ## Link to the repository
 
-The respository link is [here](https://github.com/Anika-Roy/PreCog--Legal-Database). Hope you like it!
+The respository link is [here](https://github.com/Anika-Roy/Legal-Database-Analysis). Hope you like it!
 
 ## Bibliography
 1. https://medium.com/analytics-vidhya/machine-learning-classification-algorithms-with-codes-5a8af4491fcb
